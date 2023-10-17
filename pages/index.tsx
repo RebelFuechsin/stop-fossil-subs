@@ -28,7 +28,7 @@ const Landingpage: NextPage = () => {
         <img
           className="absolute h-[67.5%] w-[64.24%] top-[17.17%] right-[17.85%] bottom-[15.33%] left-[17.92%] max-w-full overflow-hidden max-h-full"
           alt=""
-          src="/group-1089.svg"
+          src="/stop-fossil-subs/group-1089.svg"
         />
       </div>
       <div className="relative w-[1096px] h-[6780.22px] text-9xl text-base-rebel-black lg:bg-base-rebel-white lg:self-stretch lg:w-auto md:self-stretch md:w-auto md:flex-1">
@@ -100,7 +100,7 @@ const Landingpage: NextPage = () => {
             <img
               className="relative w-[520px] h-[346.67px] object-cover"
               alt=""
-              src="/b1c4edbcc60446e9b8ad13c04b5535ee@2x.png"
+              src="/stop-fossil-subs/b1c4edbcc60446e9b8ad13c04b5535ee@2x.png"
             />
             <div className="w-[517px] h-[371px] overflow-hidden shrink-0 flex flex-col items-center justify-end py-0 pr-[1.83282470703125px] pl-0 box-border text-[inherit]">
               <div className="relative bg-fossilsubs w-[497.33px] h-[432.94px] [transform:_rotate(1.98deg)] [transform-origin:0_0]" />
@@ -123,12 +123,12 @@ const Landingpage: NextPage = () => {
             <img
               className="relative w-[519px] h-[345px] object-cover"
               alt=""
-              src="/washington-dc-usa@2x.png"
+              src="/stop-fossil-subs/washington-dc-usa@2x.png"
             />
             <img
               className="relative w-[520px] h-[346.67px] object-cover"
               alt=""
-              src="/washington-dc-usa1@2x.png"
+              src="/stop-fossil-subs/washington-dc-usa1@2x.png"
             />
           </div>
         </div>
@@ -160,7 +160,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright1.svg"
+                    src="/stop-fossil-subs/iconangleright1.svg"
                   />
                 </div>
               </div>
@@ -174,7 +174,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright2.svg"
+                    src="/stop-fossil-subs/iconangleright2.svg"
                   />
                 </div>
               </div>
@@ -184,12 +184,12 @@ const Landingpage: NextPage = () => {
             <img
               className="relative w-[520px] h-[346.71px] object-cover"
               alt=""
-              src="/20210816-brandenburger-tor-sandradoneck-ccby425-1@2x.png"
+              src="/stop-fossil-subs/20210816-brandenburger-tor-sandradoneck-ccby425-1@2x.png"
             />
             <img
               className="relative w-[520px] h-[346.67px] object-cover"
               alt=""
-              src="/xr-youth-psq-thelightscaper-03051940-1@2x.png"
+              src="/stop-fossil-subs/xr-youth-psq-thelightscaper-03051940-1@2x.png"
             />
           </div>
         </div>
@@ -219,7 +219,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright3.svg"
+                    src="/stop-fossil-subs/iconangleright3.svg"
                   />
                 </div>
               </div>
@@ -250,7 +250,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright4.svg"
+                    src="/stop-fossil-subs/iconangleright4.svg"
                   />
                 </div>
               </div>
@@ -281,7 +281,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright4.svg"
+                    src="/stop-fossil-subs/iconangleright4.svg"
                   />
                 </div>
               </div>
@@ -309,7 +309,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright3.svg"
+                    src="/stop-fossil-subs/iconangleright3.svg"
                   />
                 </div>
               </div>
@@ -324,7 +324,7 @@ const Landingpage: NextPage = () => {
             <img
               className="relative w-[328px] h-[172px] object-cover"
               alt=""
-              src="/image@2x.png"
+              src="/stop-fossil-subs/image@2x.png"
             />
             <div className="bg-support-rebel-light-grey flex flex-col items-start justify-start p-6 gap-[16px]">
               <div className="relative leading-[120%] uppercase inline-block w-[280px]">
@@ -342,7 +342,7 @@ const Landingpage: NextPage = () => {
             <img
               className="relative w-[328px] h-[172px] object-cover"
               alt=""
-              src="/image1@2x.png"
+              src="/stop-fossil-subs/image1@2x.png"
             />
             <div className="bg-support-rebel-light-grey flex flex-col items-start justify-start p-6 gap-[16px]">
               <div className="relative leading-[120%] uppercase inline-block w-[280px]">
@@ -360,7 +360,7 @@ const Landingpage: NextPage = () => {
             <img
               className="relative w-[328px] h-[172px] object-cover"
               alt=""
-              src="/image2@2x.png"
+              src="/stop-fossil-subs/image2@2x.png"
             />
             <div className="bg-support-rebel-light-grey flex flex-col items-start justify-start p-6 gap-[16px]">
               <div className="relative leading-[120%] uppercase inline-block w-[280px]">
@@ -384,7 +384,7 @@ const Landingpage: NextPage = () => {
               <img
                 className="relative w-[26px] h-[26px] hidden"
                 alt=""
-                src="/iconangleright5.svg"
+                src="/stop-fossil-subs/iconangleright5.svg"
               />
             </div>
           </div>
@@ -398,7 +398,7 @@ const Landingpage: NextPage = () => {
               <img
                 className="absolute top-[0px] left-[1px] w-[446px] h-[298px] object-cover"
                 alt=""
-                src="/image-7@2x.png"
+                src="/stop-fossil-subs/image-7@2x.png"
               />
               <div className="absolute top-[199.76px] left-[29.71px] w-[489.15px] h-[329.95px] flex flex-col items-center justify-end pt-[5.7934160232543945px] pb-0 pr-[3.835235595703125px] pl-0 box-border">
                 <div className="relative bg-support-rebel-light-grey w-[485.32px] h-[324.18px] [transform:_rotate(-0.68deg)] [transform-origin:0_0]" />
@@ -420,7 +420,7 @@ const Landingpage: NextPage = () => {
               <img
                 className="absolute top-[0.58px] left-[0.5px] w-[446px] h-[343px] object-cover"
                 alt=""
-                src="/image-71@2x.png"
+                src="/stop-fossil-subs/image-71@2x.png"
               />
               <div className="absolute top-[222.48px] left-[29.99px] w-[487.21px] h-[243.26px] flex flex-col items-center justify-start pt-0 px-0 pb-[3.8561553955078125px] box-border">
                 <div className="relative bg-support-rebel-light-grey w-[485.32px] h-[239.4px] [transform:_rotate(0.46deg)] [transform-origin:0_0]" />
@@ -495,7 +495,7 @@ const Landingpage: NextPage = () => {
                 <img
                   className="relative w-[26px] h-[26px] hidden"
                   alt=""
-                  src="/iconangleright6.svg"
+                  src="/stop-fossil-subs/iconangleright6.svg"
                 />
               </div>
             </div>
@@ -548,7 +548,7 @@ const Landingpage: NextPage = () => {
         <img
           className="absolute top-[6040.79px] left-[0px] w-[1096px] h-[299.44px]"
           alt=""
-          src="/frame-1154.svg"
+          src="/stop-fossil-subs/frame-1154.svg"
         />
         <div className="absolute top-[6420.22px] left-[0px] flex flex-row items-start justify-start gap-[56px] text-center text-21xl sm:flex-col">
           <div className="w-[328px] flex flex-row flex-wrap items-start justify-start gap-[32px]">
@@ -561,7 +561,7 @@ const Landingpage: NextPage = () => {
               <img
                 className="absolute top-[38.54px] left-[7px] w-[321px] h-[231.47px]"
                 alt=""
-                src="/butterflyinsectswallowtailanimal.svg"
+                src="/stop-fossil-subs/butterflyinsectswallowtailanimal.svg"
               />
             </div>
             <button className="cursor-pointer [border:none] py-4 px-[22px] bg-base-rebel-black flex-1 overflow-hidden flex flex-col items-center justify-start">
@@ -573,7 +573,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright7.svg"
+                    src="/stop-fossil-subs/iconangleright7.svg"
                   />
                 </div>
               </div>
@@ -589,7 +589,7 @@ const Landingpage: NextPage = () => {
               <img
                 className="absolute top-[148.54px] left-[32px] w-[265.45px] h-[248.82px]"
                 alt=""
-                src="/rolluppangolinanimal.svg"
+                src="/stop-fossil-subs/rolluppangolinanimal.svg"
               />
             </div>
             <button className="cursor-pointer [border:none] py-4 px-[22px] bg-base-rebel-black flex-1 overflow-hidden flex flex-col items-center justify-start">
@@ -601,7 +601,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright8.svg"
+                    src="/stop-fossil-subs/iconangleright8.svg"
                   />
                 </div>
               </div>
@@ -617,7 +617,7 @@ const Landingpage: NextPage = () => {
               <img
                 className="absolute top-[20.95px] left-[0px] w-[328px] h-[239.37px]"
                 alt=""
-                src="/animal1299221crab.svg"
+                src="/stop-fossil-subs/animal1299221crab.svg"
               />
             </div>
             <button className="cursor-pointer [border:none] py-4 px-[22px] bg-base-rebel-black self-stretch overflow-hidden flex flex-col items-center justify-start">
@@ -629,7 +629,7 @@ const Landingpage: NextPage = () => {
                   <img
                     className="relative w-[26px] h-[26px] hidden"
                     alt=""
-                    src="/iconangleright8.svg"
+                    src="/stop-fossil-subs/iconangleright8.svg"
                   />
                 </div>
               </div>
@@ -729,7 +729,7 @@ const Landingpage: NextPage = () => {
                 <img
                   className="absolute h-3/6 w-6/12 top-[25%] right-[25%] bottom-[25%] left-[25%] max-w-full overflow-hidden max-h-full"
                   alt=""
-                  src="/social-facebook.svg"
+                  src="/stop-fossil-subs/social-facebook.svg"
                 />
               </button>
               <button className="cursor-pointer [border:none] p-0 bg-[transparent] relative w-8 h-8">
@@ -737,7 +737,7 @@ const Landingpage: NextPage = () => {
                 <img
                   className="absolute h-3/6 w-6/12 top-[26.79%] right-[23.21%] bottom-[23.21%] left-[26.79%] max-w-full overflow-hidden max-h-full"
                   alt=""
-                  src="/social-twitter.svg"
+                  src="/stop-fossil-subs/social-twitter.svg"
                 />
               </button>
               <button className="cursor-pointer [border:none] p-0 bg-[transparent] relative w-8 h-8">
@@ -745,7 +745,7 @@ const Landingpage: NextPage = () => {
                 <img
                   className="absolute h-3/6 w-6/12 top-[25%] right-[25%] bottom-[25%] left-[25%] max-w-full overflow-hidden max-h-full"
                   alt=""
-                  src="/social-youtube1.svg"
+                  src="/stop-fossil-subs/social-youtube1.svg"
                 />
               </button>
               <button className="cursor-pointer [border:none] p-0 bg-[transparent] relative w-8 h-8">
@@ -753,7 +753,7 @@ const Landingpage: NextPage = () => {
                 <img
                   className="absolute h-3/6 w-6/12 top-[25%] right-[25%] bottom-[25%] left-[25%] max-w-full overflow-hidden max-h-full"
                   alt=""
-                  src="/social-instagram.svg"
+                  src="/stop-fossil-subs/social-instagram.svg"
                 />
               </button>
               <button className="cursor-pointer [border:none] p-0 bg-[transparent] relative w-8 h-8">
@@ -761,7 +761,7 @@ const Landingpage: NextPage = () => {
                 <img
                   className="absolute h-3/6 w-6/12 top-[25%] right-[25%] bottom-[25%] left-[25%] max-w-full overflow-hidden max-h-full"
                   alt=""
-                  src="/social-mastodon1.svg"
+                  src="/stop-fossil-subs/social-mastodon1.svg"
                 />
               </button>
               <button className="cursor-pointer [border:none] p-0 bg-[transparent] relative w-8 h-8">
@@ -769,7 +769,7 @@ const Landingpage: NextPage = () => {
                 <img
                   className="absolute h-3/6 w-6/12 top-[26.79%] right-[23.21%] bottom-[23.21%] left-[26.79%] max-w-full overflow-hidden max-h-full"
                   alt=""
-                  src="/social-peertube.svg"
+                  src="/stop-fossil-subs/social-peertube.svg"
                 />
               </button>
             </div>
