@@ -18,7 +18,7 @@ const Landingpage: NextPage = () => {
             LOVE Blockade
           </div>
         </div>
-        <div className="absolute top-[0px] left-[0px] w-[1440px] h-[758px] flex flex-col items-start justify-end py-0 pr-0 pl-[8.742129153915812e-8px] box-border bg-[url('/background@3x.png')] bg-cover bg-no-repeat bg-[top] text-3xl text-base-rebel-white">
+        <div className="absolute top-[0px] left-[0px] w-[1440px] h-[758px] flex flex-col items-start justify-end py-0 pr-0 pl-[8.742129153915812e-8px] box-border bg-[url('/stop-fossil-subs/background@3x.png')] bg-cover bg-no-repeat bg-[top] text-3xl text-base-rebel-white">
           <div className="relative [background:linear-gradient(180deg,_#000,_rgba(0,_0,_0,_0))] w-[758px] h-[1440px] [transform:_rotate(-90deg)] [transform-origin:0_0] opacity-[0.5]" />
           <div className="w-[1440px] h-[88px] flex flex-col items-start justify-start py-[18px] px-[37px] box-border mt-[-1440px]">
             <div className="relative">Deutsch</div>
